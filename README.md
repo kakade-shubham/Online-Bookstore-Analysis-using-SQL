@@ -7,9 +7,13 @@
   <img src="https://img.shields.io/badge/Domain-Retail%20%7C%20Bookstore-purple?style=for-the-badge" />
 </p>
 
+In this project, I performed SQL-based analysis on an online bookstore dataset using MySQL. The objective was to explore and analyze data related to books, customers, and orders to generate meaningful business insights.
+
+This is a **self directed** project, where I explored the dataset from Kaggle by writing basic to advanced SQL queries, extracting insights, and presenting the findings in a structured and professional format.
+
 ---
 
-## 📌 Project Overview
+**📌 Project Overview**
 This project is a **SQL-based data analysis project** built using an **Online Bookstore dataset**.  
 It focuses on analyzing **books, customers, and orders** to extract meaningful business insights related to:
 
@@ -26,25 +30,23 @@ The project demonstrates the use of **basic to advanced SQL queries** to solve r
 ## 🎯 Objectives
 The main goals of this project are to:
 
-- Analyze bookstore inventory and stock levels
-- Understand customer purchasing behavior
-- Measure revenue generated from orders
-- Identify frequently ordered books and top customers
-- Practice SQL concepts using a real dataset
-- Build a portfolio-ready SQL project for data analytics roles
+- 📦 Analyze bookstore inventory and stock levels
+- 🧑🏻‍🤝‍🧑🏻 Understand customer purchasing behavior
+- 💰 Measure revenue generated from orders
+- 📚 Identify frequently ordered books and top customers
+- 🧑🏻‍💻 Practice SQL concepts using a real dataset
+- 📈 Generate data-driven insights using SQL
 
 ---
 
 ## 🗂️ Dataset Information
 This project uses the **Online Bookstore Analysis** dataset from Kaggle.
 
-🔗 **Dataset Source:**  
-[Online Bookstore Analysis Dataset on Kaggle](https://www.kaggle.com/datasets/komal1111/online-bookstore-analysis)
+⭐ The dataset consists of three core tables:
 
-### Files Used
-- `Books.csv`
-- `Customers.csv`
-- `Orders.csv`
+- **📚 Books** – Book details (Book_id, Title, Author, Genre, Published_Year, Price, Stock)
+- **👥 Customers** – Customer details (Customer_Id, Name, Email, Phone, City, Country)
+- **🛒 Orders** – Transaction details (Order_Id, Customer_Id, Book_Id, Order date, Quantity, Total amount)
 
 ---
 
