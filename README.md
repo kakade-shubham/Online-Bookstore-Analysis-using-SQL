@@ -1,4 +1,3 @@
-# Online-Bookstore-Analysis-using-SQL
 # 📚 Online Bookstore Analysis | SQL Project
 
 <p align="center">
