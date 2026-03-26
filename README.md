@@ -50,87 +50,36 @@ This project uses the **Online Bookstore Analysis** dataset from Kaggle.
 
 ---
 
-## 🏗️ Database Schema
-
-### 📚 Books Table
-Contains book-related details:
-- Book ID
-- Title
-- Author
-- Genre
-- Published Year
-- Price
-- Stock
-
-### 👤 Customers Table
-Contains customer information:
-- Customer ID
-- Name
-- City
-- Country
-
-### 🛍️ Orders Table
-Contains transaction details:
-- Order ID
-- Customer ID
-- Book ID
-- Order Date
-- Quantity
-- Total Amount
-
----
-
 ## 🛠️ Tools & Skills Used
-- **SQL**
-- **MySQL / Relational Database Concepts**
-- **Joins**
-- **Aggregate Functions**
-- **GROUP BY / ORDER BY**
-- **Filtering & Sorting**
-- **Subqueries**
-- **Business Insight Generation**
+- MySQL
+- SQL (Basic to Advanced)
+- Joins
+- Aggregate Functions
+- GROUP BY and ORDER BY
+- Filtering and Sorting
+- Data Analysis and Business Insight Generation
 
 ---
 
-## ❓ SQL Questions Solved
-
-### 🔹 Basic Queries
-1. Retrieve all books in the **"Fiction"** genre  
-2. Find books published after the year **1950**  
-3. List all customers from **Canada**  
-4. Show orders placed in **November 2023**  
-5. Retrieve the **total stock** of books available  
-6. Find the details of the **most expensive book**  
-7. Show all customers who ordered **more than 1 quantity** of a book  
-8. Retrieve all orders where the **total amount exceeds $20**  
-9. List all **genres** available in the Books table  
-10. Find the book with the **lowest stock**  
-11. Calculate the **total revenue** generated from all orders  
-
-### 🔸 Advanced Queries
-1. Retrieve the **total number of books sold for each genre**  
-2. Find the **average price** of books in the **Fantasy** genre  
-3. List customers who have placed **at least 2 orders**  
-4. Find the **most frequently ordered book**  
-5. Show the **top 3 most expensive books** in the **Fantasy** genre  
-6. Retrieve the **total quantity of books sold by each author**  
-7. List the **cities** where customers who spent **over $30** are located  
-8. Find the **customer who spent the most on orders**  
-9. Calculate the **stock remaining after fulfilling all orders**
-
+## 💡 **Project Highlights**
+- ✔ Solved real-world business problems using SQL
+- ✔ Performed customer, sales, and inventory analysis
+- ✔ Generated actionable insights for decision-making
+  
 ---
 
 ## 📈 Key Insights
-Using SQL analysis, this project helps identify:
+Using SQL analysis, this project helps to identify:
 
+- 🧾 138 customers placed repeat orders
 - 📚 Best-selling genres
-- 🏆 Most frequently ordered books
-- 👤 Customers with the highest spending
-- 💵 Total revenue generated
+- 🏆 Robust Tangible Hardware was most fequently ordered book
+- 👤 "Kim Turner" is the highest spending customer
 - ✍️ Author-wise sales performance
 - 📦 Books with low stock
-- 🌍 Customer distribution by city and country
+- 🌍 442 customers spent more than $30
 - 🧮 Remaining inventory after order fulfillment
+- 💵 Total revenue generated $75,443.27
 
 ---
 
@@ -145,12 +94,6 @@ This analysis can support an online bookstore in:
 
 ---
 
-## 📁 Project Structure
-```bash
-Online-Bookstore-Analysis/
-│
-├── Books.csv
-├── Customers.csv
-├── Orders.csv
-├── Online_Bookstore_SQL_Analysis.sql
-└── README.md
+👨‍💻 Author
+
+Shubham Kakade
