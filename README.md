@@ -1,6 +1,6 @@
 # 📚 Online Bookstore Analysis | SQL Project
 
-<p align="Left">
+<p align="Center">
   <img src="https://img.shields.io/badge/Project-SQL%20Data%20Analysis-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20SQL-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Level-Beginner%20to%20Advanced-success?style=for-the-badge" />
@@ -9,7 +9,7 @@
 
 In this project, I performed SQL-based analysis on an online bookstore dataset using MySQL. The objective was to explore and analyze data related to books, customers, and orders to generate meaningful business insights.
 
-This is a **self directed** project, where I explored the dataset from Kaggle by writing basic to advanced SQL queries, extracting insights, and presenting the findings in a structured and professional format.
+This is a **self-directed** project, where I explored the dataset from Kaggle by writing basic to advanced SQL queries, extracting insights, and presenting the findings in a structured and professional format.
 
 ---
 
@@ -42,6 +42,10 @@ The main goals of this project are to:
 ## 🗂️ Dataset Information
 This project uses the **Online Bookstore Analysis** dataset from Kaggle.
 
+## 🗂️ Dataset source:
+
+https://www.kaggle.com/datasets/komal1111/online-bookstore-analysis?select=03_Books.csv
+
 ⭐ The dataset consists of three core tables:
 
 - **📚 Books** – Book details (Book_id, Title, Author, Genre, Published_Year, Price, Stock)
@@ -73,8 +77,8 @@ Using SQL analysis, this project helps to identify:
 
 - 🧾 138 customers placed repeat orders
 - 📚 Best-selling genres
-- 🏆 Robust Tangible Hardware was most fequently ordered book
-- 👤 "Kim Turner" is the highest spending customer
+- 🏆 Robust Tangible Hardware was most frequently ordered book
+- 👤 Kim Turner is the highest spending customer
 - ✍️ Author-wise sales performance
 - 📦 Books with low stock
 - 🌍 442 customers spent more than $30
