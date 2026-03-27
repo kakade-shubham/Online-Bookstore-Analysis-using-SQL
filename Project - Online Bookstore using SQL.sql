@@ -271,3 +271,5 @@ ON B.BookID = O.BookID
 GROUP BY B.BookID,B.Title,B.Stock
 ORDER BY B.BookID ASC;
 
+
+------------------- The End -------------------
